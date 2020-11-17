@@ -21,5 +21,5 @@ Pod::Spec.new do |s|
   s.module_name = "FacebookCore"
   s.pod_target_xcconfig = { "ENABLE_TESTABILITY" => "YES" }
 
-  s.ios.dependency "FBSDKCoreKit", "~> 5.0"
+  
 end
